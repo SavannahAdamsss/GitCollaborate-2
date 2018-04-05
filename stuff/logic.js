@@ -7,3 +7,13 @@ var humans = [{
     age: 19
   }
 ];
+
+var students = [{
+    name: 'Nick',
+    age: 23
+  },
+  {
+    name: 'Lauren',
+    age: 33
+  }
+];

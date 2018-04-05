@@ -4,20 +4,22 @@ header {
   grid-gap: 10px;
   align-items: end;
   border-bottom: .3rem solid darkgrey;
+  font-size: 50px;
 }
 
 h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
-  color: orange;
+  color: turquoise;
 }
 
 nav {
   grid-column: 5/ span 2;
+  margin: none;
 }
 
 nav a {
   text-decoration: none;
-  color: darkgrey;
-  font-size:
+  color: pink;
+  font-size: 10px;
 }
